@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-image_path = r'c:\Users\ngotr\Pictures\main_1.jpg'
+image_path = r'C:\Users\tranm\Downloads\th.jpg'
 # Load the image
 image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)  # Đọc ảnh dưới dạng grayscale (ảnh xám)
 
